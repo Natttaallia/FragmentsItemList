@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentsItemList</string>
+    <string name="empty_text">Empty text</string>
+</resources>
